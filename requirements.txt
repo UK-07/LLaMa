@@ -1,0 +1,9 @@
+torch
+numpy
+transformers
+datasets
+sentencepiece
+tiktoken
+wandb
+tqdm
+
